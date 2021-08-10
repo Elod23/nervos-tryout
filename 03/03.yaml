@@ -1,0 +1,35 @@
+txHash: 0xe1709c5844dcfb74022d806e7df9dc69bc27c8b788fd91514f5a0d7e750bf962
+contractAddress: 0x572cDa02656496a3f362DfCc55A2606B87E4ab9d
+contractABI: [
+      {
+        "inputs": [],
+        "stateMutability": "payable",
+        "type": "constructor"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "uint256",
+            "name": "x",
+            "type": "uint256"
+          }
+        ],
+        "name": "set",
+        "outputs": [],
+        "stateMutability": "payable",
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "name": "get",
+        "outputs": [
+          {
+            "internalType": "uint256",
+            "name": "",
+            "type": "uint256"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      }
+    ]
