@@ -29,3 +29,11 @@
 ![tx](./03/03-tx.png)
 
 ![data](./03/03.yaml)
+
+## 04
+
+![sudt-cli](./04/04-sudt-cli.png)
+
+![sudtID](./04/04-deposit.png)
+
+![data](./04/04.yaml)
